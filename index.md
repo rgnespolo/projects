@@ -4,7 +4,7 @@
 
 ### Deep Learning & Computer Vision in Surgical Guidance
 
-[Project 1 Title](/sample_page)
+Surgical phase identification using R-CNN's
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
