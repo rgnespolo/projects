@@ -20,7 +20,7 @@ Surgical phase identification using R-CNN's
 Project 2 description<br>
 [Presented at the 2021 ARVO Imaging in The Eye - PDF here](/pdf/Nespolo_ARVO_IMAGING.pdf)
 <br>
-<video width="384" height="216" autoplay muted loop>
+<video width="512" height="288" autoplay muted loop>
   <source src="videos/phaco_ppt.mp4" type="video/mp4">
 </video>
 **Tools employed:** 
