@@ -11,7 +11,7 @@ Surgical phase identification using R-CNN's during cataract procedures
 - OpenCV employed for optical flow tracking of features and visual feedback;
 - Contrast Limited Adaptive Histogram Equalization.
 <br>
----
+
 <br>
 ### Project 2
 Turbulence & harmful movement detection during phacoemulsification cataract procedures<br>
