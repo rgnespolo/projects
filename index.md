@@ -6,7 +6,7 @@
 [Presented at the 2021 ARVO Annual Meeting - PDF here](/pdf/Nespolo_ARVO_POSTER.pdf)
 <br>
 <p align="center">
-<img src="images/rcnn.png?raw=true" width="300">
+<img src="images/rcnn.png?raw=true" width="300px"/>
 </p>
 - R-CNN model trained on custom annotated dataset by experts, performing phase identification and pupil tracking (Python, Pytorch + TorchVision);
 - OpenCV employed for optical flow tracking of features and visual feedback;
