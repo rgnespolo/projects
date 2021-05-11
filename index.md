@@ -14,7 +14,7 @@ Surgical phase identification using R-CNN's
 - OpenCV employed for optical flow tracking of features and visual feedback;
 - Contrast Limited Adaptive Histogram Equalization.
 <br>
----
+
 <br>
 ### Project 2
 
