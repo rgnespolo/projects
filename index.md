@@ -10,6 +10,12 @@ Surgical phase identification using R-CNN's<br>
 <video width="640" height="360" autoplay muted loop>
   <source src="videos/phaco_ppt.mp4" type="video/mp4">
 </video>
+<br>
+- **Tools employed:** 
+- R-CNN model trained on custom annotated dataset by experts, performing phase identification and pupil tracking;
+- OpenCV employed for optical flow tracking of features and visual feedback;
+- Contrast Limited Adaptive Histogram Equalization.
+- <br>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <br>
@@ -22,19 +28,3 @@ Surgical phase identification using R-CNN's<br>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
