@@ -15,7 +15,7 @@ Surgical phase identification using R-CNN's
 - Contrast Limited Adaptive Histogram Equalization.
 <br>
 ---
-
+<br>
 ### Project 2
 
 Project 2 description<br>
