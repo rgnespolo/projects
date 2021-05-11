@@ -4,11 +4,11 @@
 
 ### Deep Learning & Computer Vision in Surgical Guidance
 
-Surgical phase identification using R-CNN's
+Surgical phase identification using R-CNN's during cataract procedures
 <br>
 [Presented at the 2021 ARVO Annual Meeting - PDF here](/pdf/Nespolo_ARVO_POSTER.pdf)
 <br>
-<embed src="/pdf/Nespolo_ARVO_POSTER.pdf" width="512px" height="300px"/>
+<embed src="/pdf/Nespolo_ARVO_POSTER.pdf#toolbar=0 " width="512px" height="288px"/>
 
 **Tools employed:** 
 - R-CNN model trained on custom annotated dataset by experts, performing phase identification and pupil tracking (Python, Pytorch + TorchVision);
@@ -19,7 +19,7 @@ Surgical phase identification using R-CNN's
 <br>
 ### Project 2
 
-Project 2 description<br>
+Turbulence & harmful movement detection during phacoemulsification cataract procedures<br>
 [Presented at the 2021 ARVO Imaging in The Eye - PDF here](/pdf/Nespolo_ARVO_IMAGING.pdf)
 <br>
 <video width="512" height="288" autoplay muted loop>
