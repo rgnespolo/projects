@@ -11,8 +11,7 @@
 - R-CNN model trained on custom annotated dataset by experts, performing phase identification and pupil tracking (Python, Pytorch + TorchVision);
 - OpenCV employed for optical flow tracking of features and visual feedback;
 - Contrast Limited Adaptive Histogram Equalization.
-
-### Project 2
+<br>
 **Turbulence & harmful movement detection during phacoemulsification cataract procedures** <br>
 Presented at the 2021 ARVO Imaging in The Eye
 <br>
