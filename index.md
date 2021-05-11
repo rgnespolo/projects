@@ -8,7 +8,7 @@ Surgical phase identification using R-CNN's<br>
 [Presented at the 2021 ARVO Annual Meeting - PDF here](/pdf/Nespolo_ARVO_POSTER.pdf)
 <br>
 <video width="640" height="360" controls>
-  <source type="video/mp4" src="videos/phaco_ppy.mp4">
+  <source src="videos/phaco_ppy.mp4" type="video/mp4">
 </video>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
