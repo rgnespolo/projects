@@ -6,7 +6,7 @@
 **Surgical phase identification using R-CNN's during cataract procedures**
 [Presented at the 2021 ARVO Annual Meeting - PDF here](/pdf/Nespolo_ARVO_POSTER.pdf)
 <br>
-<img src="images/rcnn.png?raw=true" width="200"/>
+<img src="images/rcnn.png?raw=true" width="300"/>
 
 - R-CNN model trained on custom annotated dataset by experts, performing phase identification and pupil tracking (Python, Pytorch + TorchVision);
 - OpenCV employed for optical flow tracking of features and visual feedback;
