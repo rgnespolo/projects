@@ -12,6 +12,7 @@
 - OpenCV employed for optical flow tracking of features and visual feedback;
 - Contrast Limited Adaptive Histogram Equalization.
 <hr>
+<!--
 ### Turbulence & harmful movement detection during phacoemulsification cataract procedures
 Presented at the 2021 ARVO Imaging in The Eye
 <br>
@@ -22,3 +23,4 @@ Presented at the 2021 ARVO Imaging in The Eye
 - Contrast Limited Adaptive Histogram Equalization applied in the pupil area for better visualization of tissues;
 - Tools and tissues movement coordinates extracted: data generated for future ML models.
 <br>
+-->
