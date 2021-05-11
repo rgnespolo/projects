@@ -5,7 +5,7 @@
 ### Deep Learning & Computer Vision in Surgical Guidance
 
 Surgical phase identification using R-CNN's<br>
-[Presented at the 2021 ARVO Annual Meeting - PDF here](/pdf/sample_presentation.pdf)
+[Presented at the 2021 ARVO Annual Meeting - PDF here](/pdf/Nespolo_ARVO_POSTER.pdf)
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
