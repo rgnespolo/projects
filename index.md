@@ -4,7 +4,6 @@
 
 ### Deep Learning & Computer Vision in Surgical Guidance
 Surgical phase identification using R-CNN's during cataract procedures
-<br>
 [Presented at the 2021 ARVO Annual Meeting - PDF here](/pdf/Nespolo_ARVO_POSTER.pdf)
 <br>
 <embed src="/pdf/Nespolo_ARVO_POSTER.pdf#toolbar=0 " width="512px" height="450px"/>
