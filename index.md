@@ -12,7 +12,7 @@
 - Contrast Limited Adaptive Histogram Equalization.
 
 ### Project 2
-**Turbulence & harmful movement detection during phacoemulsification cataract procedures**
+**Turbulence & harmful movement detection during phacoemulsification cataract procedures** <br>
 Presented at the 2021 ARVO Imaging in The Eye
 <br>
 <video width="512" height="288" autoplay muted loop>
