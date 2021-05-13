@@ -1,5 +1,7 @@
 ## About me
 ---
+## Research interest
+---
 ## Portfolio
 ---
 ### Surgical phase identification using R-CNN's during cataract procedures
