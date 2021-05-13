@@ -4,7 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Bioengineering MSc. 
   <br>
   Electrical Engineer
-  <br><br>
+  <br>
+  Research interests:
+  <br>
   <a href="https://www.linkedin.com/in/rgnespolo/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
