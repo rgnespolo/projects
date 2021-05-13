@@ -1,7 +1,8 @@
 ## Research interests
----
+My work has been dedicated to develop and train machine learning/deep learning models to be employed in real time in the operating room, building computer vision tools upon it and providing surgical decision-making information.
+
 ## Portfolio
----
+
 ### Surgical phase identification using R-CNN's during cataract procedures
 [Presented at the 2021 ARVO Annual Meeting - PDF here](/pdf/Nespolo_ARVO_POSTER.pdf)
 <br>
