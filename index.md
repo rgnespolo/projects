@@ -1,7 +1,7 @@
-## Portfolio
-
+## About me
 ---
-
+## Portfolio
+---
 ### Surgical phase identification using R-CNN's during cataract procedures
 [Presented at the 2021 ARVO Annual Meeting - PDF here](/pdf/Nespolo_ARVO_POSTER.pdf)
 <br>
