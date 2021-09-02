@@ -7,6 +7,7 @@ My work has been dedicated to develop and train machine learning/deep learning m
 ---
 ### Turbulence & harmful movement detection during phacoemulsification cataract procedures
 Presented at the 2021 ARVO Imaging in The Eye
+<a href="https://iovs.arvojournals.org/article.aspx?articleid=2776698">Abstract here</a>
 <br>
 <p>
 <video width="512" height="288" autoplay muted loop src="videos/phaco_ppt.mp4" type="video/mp4"/>
@@ -20,6 +21,7 @@ Presented at the 2021 ARVO Imaging in The Eye
 
 ### Surgical phase identification using R-CNN's during cataract procedures
 [Presented at the 2021 ARVO Annual Meeting - PDF here](/pdf/Nespolo_ARVO_POSTER.pdf)
+<a href="https://iovs.arvojournals.org/article.aspx?articleid=2774153">Abstract here</a>
 <br>
 <p align="center">
 <img src="images/rcnn.png?raw=true" width="300px"/>
