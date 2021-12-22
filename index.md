@@ -5,6 +5,19 @@ My work has been dedicated to develop and train machine learning/deep learning m
 
 ## Portfolio
 ---
+### Real-time instance segmentation during vitreoretinal microsurgery
+Presented at the Retina Society 54th Annual Scientific Meeting
+<br>
+<a>Abstract here</a>
+<br>
+<p>
+<video width="512" height="288" autoplay muted loop src="videos/RETINA_SOC.mp4" type="video/mp4"/>
+</p>
+- Instance segmentation model (YOLACT-based) to track multiple instruments and retinal features in real time
+- Compatible with commercially available microscopes and visualization systems.
+- Tools and tissues movement coordinates extracted: data generated for future ML models.
+<hr>
+
 ### Turbulence & harmful movement detection during phacoemulsification cataract procedures
 Presented at the 2021 ARVO Imaging in The Eye
 <br>
