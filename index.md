@@ -6,10 +6,10 @@ My work has been dedicated to develop and train machine learning/deep learning m
 ## Portfolio
 ---
 ### Real-time instance segmentation during vitreoretinal microsurgery
-Presented at the Retina Society 54th Annual Scientific Meeting
-<br>
-<a>Abstract here</a>
-<br>
+Published paper: 
+<a href="https://doi.org/10.1016/j.oret.2022.10.002">Feature Tracking and Segmentation in Real Time via Deep Learning in Vitreoretinal Surgery – A platform for AI-Mediated Surgical Guidance</a>
+
+Also presented at the Retina Society 54th Annual Scientific Meeting
 <p>
 <video width="512" height="288" autoplay muted loop src="videos/RETINA_SOC.mp4" type="video/mp4"/>
 </p>
@@ -19,7 +19,9 @@ Presented at the Retina Society 54th Annual Scientific Meeting
 <hr>
 
 ### Turbulence & harmful movement detection during phacoemulsification cataract procedures
-Presented at the 2021 ARVO Imaging in The Eye
+Part of the following paper: 
+<a href="https://doi.org/10.1001/jamaophthalmol.2021.5742">Evaluation of Artificial Intelligence–Based Intraoperative Guidance Tools for Phacoemulsification Cataract Surgery</a>
+Also presented at the 2021 ARVO Imaging in The Eye
 <br>
 <a href="https://iovs.arvojournals.org/article.aspx?articleid=2776698">Abstract here</a>
 <br>
@@ -34,7 +36,9 @@ Presented at the 2021 ARVO Imaging in The Eye
 
 
 ### Surgical phase identification using R-CNN's during cataract procedures
-[Presented at the 2021 ARVO Annual Meeting - PDF here](/pdf/Nespolo_ARVO_POSTER.pdf)
+Part of the following paper: 
+<a href="https://doi.org/10.1001/jamaophthalmol.2021.5742">Evaluation of Artificial Intelligence–Based Intraoperative Guidance Tools for Phacoemulsification Cataract Surgery</a>
+[Also presented at the 2021 ARVO Annual Meeting - PDF here](/pdf/Nespolo_ARVO_POSTER.pdf)
 <br>
 <a href="https://iovs.arvojournals.org/article.aspx?articleid=2774153">Abstract here</a>
 <br>
