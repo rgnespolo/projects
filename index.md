@@ -16,6 +16,7 @@ Also presented at the Retina Society 54th Annual Scientific Meeting
 - Instance segmentation model (YOLACT-based) to track multiple instruments (vitrector, endolaser) and retinal features (retinal tear, detachment, optic disc, fovea) in real time.
 - Compatible with commercially available microscopes and visualization systems.
 - Tools and tissues movement coordinates can be extracted in real time or post-hoc: data generated for future ML models.
+- <a href="https://github.com/rgnespolo/YOLACT_Retina_Public">Source code</a>
 <hr>
 
 ### Turbulence & harmful movement detection during phacoemulsification cataract procedures
