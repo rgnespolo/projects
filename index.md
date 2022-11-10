@@ -12,7 +12,7 @@ Published paper:
 Also presented at the American Academy of Ophthalmology annual meeting 2022 
 <br>
 <p align="center">
-<img src="images/gaze_platform.png?raw=true" width="300px"/>
+<img src="images/gaze_platform.jpg?raw=true" width="300px"/>
 </p>
 - Instance segmentation model (YOLACT-based) to track multiple instruments (vitrector, endolaser) and retinal features (retinal tear, detachment, optic disc, fovea) in real time.
 - Extraction of gaze coordinates from off-the-shelf eye trackers via computer vision
