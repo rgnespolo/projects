@@ -10,7 +10,9 @@ Published paper:
 <a href="https://doi.org/10.1016/j.xops.2022.100246">A Platform for Tracking Surgeon⁠- and Observer⁠-Gaze as a Surrogate for Attention in Ophthalmic Surgery</a>
 
 Also presented at the American Academy of Ophthalmology annual meeting 2022 
-<p>
+<br>
+<p align="center">
+<img src="images/gaze_platform.png?raw=true" width="300px"/>
 </p>
 - Instance segmentation model (YOLACT-based) to track multiple instruments (vitrector, endolaser) and retinal features (retinal tear, detachment, optic disc, fovea) in real time.
 - Extraction of gaze coordinates from off-the-shelf eye trackers via computer vision
