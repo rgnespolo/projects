@@ -5,6 +5,20 @@ My work has been dedicated to develop and train machine learning/deep learning m
 
 ## Portfolio
 ---
+### A Platform for Tracking Surgeon⁠- and Observer⁠-Gaze as a Surrogate for Attention in Ophthalmic Surgery
+Published paper: 
+<a href="https://doi.org/10.1016/j.xops.2022.100246">A Platform for Tracking Surgeon⁠- and Observer⁠-Gaze as a Surrogate for Attention in Ophthalmic Surgery</a>
+
+Also presented at the American Academy of Ophthalmology annual meeting 2022 
+<p>
+</p>
+- Instance segmentation model (YOLACT-based) to track multiple instruments (vitrector, endolaser) and retinal features (retinal tear, detachment, optic disc, fovea) in real time.
+- Extraction of gaze coordinates from off-the-shelf eye trackers via computer vision
+- Assessment of gaze behavior among surgeons from different levels of experience
+- <a href="https://github.com/rgnespolo/Gaze-Tracking-Platform-for-Surgical-Behavior-Analysis">Source code</a>
+<hr>
+
+
 ### Real-time instance segmentation during vitreoretinal microsurgery
 Published paper: 
 <a href="https://doi.org/10.1016/j.oret.2022.10.002">Feature Tracking and Segmentation in Real Time via Deep Learning in Vitreoretinal Surgery – A platform for AI-Mediated Surgical Guidance</a>
